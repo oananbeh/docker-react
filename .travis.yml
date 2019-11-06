@@ -14,6 +14,6 @@ deploy:
  bucket_path: "docer-react"
  on:
   branch: master
-  access_key_id: "AKIAU5HP4NWLT63CSEHQ"
+  access_key_id: "AWS_ACCESS_KEY"
   secret_access_key: 
-   secuer: "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"       
+   secuer: "AWS_SECRET_KEY"       
